@@ -26,6 +26,7 @@ This folder includes the data generated and used during the project, broken down
 - **Manually Evaluated Articles**: A subset of academic articles that were manually assessed for relevance to media bias definitions, serving as ground truth data for evaluation.
 - **LLM-based Relevance Classifications**: Outputs from the relevance classification step (5 files, names {model}_relevance), where articles were classified using different LLM models and prompting techniques.
 - **Extracted Definitions**: Definitions of media bias extracted both manually and via LLMs, used for comparison and evaluation.
+- **Keywords**: Extensive list of keywords used for scholarly database search.
 
 ### 3. Performance Evaluation Files
 
